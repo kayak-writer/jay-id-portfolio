@@ -4,9 +4,9 @@
 
 Welcome to my instructional design portfolio!
 
-My experience blends training and technical writing for Software-as-a-Service (SaaS) companies. I love online courses, and, as a new employee, I have greatly benefited from good training. I would like to pay it forward and share those experiences with others.
+My experience blends training and technical writing for Software-as-a-Service (SaaS) companies. I love online courses, and, as a new employee, **I have greatly benefited from good training**. I would like to pay it forward and share those experiences with others.
 
-
+![Career Arc](career_arc.png)
 
 I have worked for both smaller startups and large multinational corporations, and I have experience with the following content types:
 
