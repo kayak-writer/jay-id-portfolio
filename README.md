@@ -30,14 +30,12 @@ The portfolio includes:
 
 ## eLearning Course
 
-I created an eLearning course for a new loyalty feature for a mobile Point-of-Sale (mPOS) system with Articulate Rise.
+I created an eLearning course for a new loyalty feature for a mobile Point-of-Sale (mPOS) system. The course, which I created with with Articulate Rise, covers the benefit of the feature, along how to enable it.  
 
-[eLearning Course: Getting Started With Loyalty](https://drive.google.com/drive/u/1/folders/1meF1igQ5ulkhRUELkiW-phpVE7yeh12T)
+[eLearning Course](https://drive.google.com/file/d/1rqfH0XWuoZdGnh48EszyaXyfOO28_6Wf/view?usp=sharing)
 
 ## Video
 
-I developed a video script for a new microsite for online ordering with a mobile Point-of-Sale (mPOS) system.
-
-To produce the video, I collaborated with colleagues in a creative studio who provided the voiceovers and graphics.
+I developed a video script for a new microsite for online ordering with a mobile Point-of-Sale (mPOS) system. To produce the video, I collaborated with colleagues in a creative studio who provided the voiceovers and graphics.
 
 [Microsite Video](https://drive.google.com/drive/u/1/folders/1meF1igQ5ulkhRUELkiW-phpVE7yeh12T)
